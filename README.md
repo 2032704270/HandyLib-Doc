@@ -1,2 +1,2 @@
-# HandyLib.github.io
+# HandyLib
 handy的开放工具包
