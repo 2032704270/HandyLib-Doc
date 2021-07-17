@@ -1,4 +1,7 @@
+com.handy.lib
+com.handy.lib.annotation
 com.handy.lib.api
+com.handy.lib.command
 com.handy.lib.constants
 com.handy.lib.core
 com.handy.lib.inventory
