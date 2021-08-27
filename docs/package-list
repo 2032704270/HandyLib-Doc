@@ -9,6 +9,7 @@ com.handy.lib.db.enter
 com.handy.lib.db.enums
 com.handy.lib.db.param
 com.handy.lib.inventory
+com.handy.lib.metrics
 com.handy.lib.param
 com.handy.lib.service
 com.handy.lib.util
